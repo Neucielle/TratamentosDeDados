@@ -11,3 +11,5 @@ Bem-vindos ao meu repositório! 🎉 Este projeto é dedicado à análise e trat
   ## ✨ Contribuições
 
   Se você deseja contribuir com este projeto, sinta-se à vontade para abrir issues, enviar pull requests e compartilhar suas ideias! Suas contribuições são muito bem-vindas. 😊
+
+
