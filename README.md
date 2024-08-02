@@ -15,8 +15,8 @@ Bem-vindos ao meu repositório! 🎉 Este projeto é dedicado à análise e trat
 <hr>
 
 ## 📸 Imagens dos Gráficos
-Abaixo você encontrará os gráficos gerados pelo primeiro projeto, AnaliseDeDadosAcidentes.ipynb. As imagens serão organizadas conforme os projetos tratados:
-(OBS: Não se trata de um tratamento completo, apenas uma breve demonstração.)
+Abaixo você encontrará os gráficos gerados pelo primeiro projeto, AnaliseDeDadosAcidentes.ipynb. As imagens serão organizadas conforme os projetos tratados: <br>
+### (OBS: Não se trata de um tratamento completo, apenas uma breve demonstração.)<br>
 Link da Base de Dados: https://dadosabertos.poa.br/dataset/acidentes-de-transito-acidentes
 
 ## AnaliseDeDadosAcidentes
